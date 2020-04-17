@@ -1,0 +1,7 @@
+.hangman_container {
+    background-color: black;
+    color: whitesmoke;
+    border: 5px dashed grey;
+    margin: 20% 30% 20% 30%;
+    text-align: center;
+}
